@@ -369,12 +369,12 @@ const ropesheet = new Image();
 const background = new Image();
 const lavasheet = new Image();
 winscreen = new Image();
-spritesheet.src = "assets/tiles.png";
-playersheet.src = "assets/player.png";
-ropesheet.src = "assets/ropes.png";
-background.src = "assets/background.png";
-lavasheet.src = "assets/lava.png";
-winscreen.src = "assets/win.png";
+spritesheet.src = "tiles.png";
+playersheet.src = "player.png";
+ropesheet.src = "ropes.png";
+background.src = "background.png";
+lavasheet.src = "lava.png";
+winscreen.src = "win.png";
 
 
 ctx.imageSmoothingEnabled = false;
